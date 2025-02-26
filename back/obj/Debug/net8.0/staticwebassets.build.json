@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M+Be9pcKFY/mGtAAiv6vB0K8zuWDSCbcjmwaRMeJ5iA=",
+  "Source": "spotify-concert-app-backend",
+  "BasePath": "_content/spotify-concert-app-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|c:\\users\\wiktor\\desktop\\projects-main\\projekt\\back\\concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|solutionrelative:concertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|c:\\users\\wiktor\\desktop\\projects-main\\projekt\\back\\spotify-concert-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|solutionrelative:spotify-concert-app-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|c:\\users\\wiktor\\desktop\\projects-main\\projekt\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|c:\\users\\wiktor\\desktop\\projects-main\\projekt\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2F2CFA-88A0-4762-826F-D3D77B0EF1E9}|spotify-concert-app-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spotify-concert-app-backend.http",
+              "DocumentMoniker": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\spotify-concert-app-backend.http",
+              "RelativeDocumentMoniker": "spotify-concert-app-backend.http",
+              "ToolTip": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\spotify-concert-app-backend.http",
+              "RelativeToolTip": "spotify-concert-app-backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-11T16:38:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-11T15:32:41.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:32:35.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcertController.cs",
+              "DocumentMoniker": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\ConcertController.cs",
+              "RelativeDocumentMoniker": "ConcertController.cs",
+              "ToolTip": "C:\\Users\\wiktor\\Desktop\\projects-main\\projekt\\back\\ConcertController.cs",
+              "RelativeToolTip": "ConcertController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:54:38.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

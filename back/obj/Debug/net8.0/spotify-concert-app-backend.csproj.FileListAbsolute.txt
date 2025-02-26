@@ -1,0 +1,180 @@
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\appsettings.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\spotify-concert-app-backend.staticwebassets.endpoints.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\spotify-concert-app-backend.exe
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\spotify-concert-app-backend.deps.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\spotify-concert-app-backend.runtimeconfig.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\spotify-concert-app-backend.pdb
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.csproj.AssemblyReference.cache
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfoInputs.cache
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfo.cs
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.csproj.CoreCompileInputs.cache
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\scopedcss\bundle\spotify-concert-app-backend.styles.css
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets\msbuild.build.spotify-concert-app-backend.props
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.spotify-concert-app-backend.props
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.spotify-concert-app-backend.props
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-.03BFCD2A.Up2Date
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\refint\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.pdb
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\spotify-concert-app-backend.genruntimeconfig.cache
+D:\Downloads\spotify new version w backend in c#\spotify-concert-app-backend\obj\Debug\net8.0\ref\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\appsettings.json
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.staticwebassets.endpoints.json
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.exe
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.deps.json
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.runtimeconfig.json
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.pdb
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.AssemblyReference.cache
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfoInputs.cache
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfo.cs
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.CoreCompileInputs.cache
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\scopedcss\bundle\spotify-concert-app-backend.styles.css
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.build.spotify-concert-app-backend.props
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.spotify-concert-app-backend.props
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.spotify-concert-app-backend.props
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-.03BFCD2A.Up2Date
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\refint\spotify-concert-app-backend.dll
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.pdb
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.genruntimeconfig.cache
+D:\Downloads\spotify new version w backend\back\obj\Debug\net8.0\ref\spotify-concert-app-backend.dll
+E:\spotify new version w backend\back\bin\Debug\net8.0\appsettings.Development.json
+E:\spotify new version w backend\back\bin\Debug\net8.0\appsettings.json
+E:\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.staticwebassets.endpoints.json
+E:\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.exe
+E:\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.deps.json
+E:\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.runtimeconfig.json
+E:\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.dll
+E:\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.pdb
+E:\spotify new version w backend\back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.AssemblyReference.cache
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfoInputs.cache
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfo.cs
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.CoreCompileInputs.cache
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cs
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cache
+E:\spotify new version w backend\back\obj\Debug\net8.0\scopedcss\bundle\spotify-concert-app-backend.styles.css
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.build.json
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.development.json
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.build.spotify-concert-app-backend.props
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.spotify-concert-app-backend.props
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.spotify-concert-app-backend.props
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.pack.json
+E:\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-.03BFCD2A.Up2Date
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.dll
+E:\spotify new version w backend\back\obj\Debug\net8.0\refint\spotify-concert-app-backend.dll
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.pdb
+E:\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.genruntimeconfig.cache
+E:\spotify new version w backend\back\obj\Debug\net8.0\ref\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\appsettings.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.staticwebassets.endpoints.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.exe
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.deps.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.runtimeconfig.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\spotify-concert-app-backend.pdb
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.AssemblyReference.cache
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfoInputs.cache
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfo.cs
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.CoreCompileInputs.cache
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\scopedcss\bundle\spotify-concert-app-backend.styles.css
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.build.spotify-concert-app-backend.props
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.spotify-concert-app-backend.props
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.spotify-concert-app-backend.props
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-.03BFCD2A.Up2Date
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\refint\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.pdb
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\spotify-concert-app-backend.genruntimeconfig.cache
+C:\Users\wiktor\Desktop\projects-main\spotify new version w backend\back\obj\Debug\net8.0\ref\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\appsettings.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\spotify-concert-app-backend.staticwebassets.endpoints.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\spotify-concert-app-backend.exe
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\spotify-concert-app-backend.deps.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\spotify-concert-app-backend.runtimeconfig.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\spotify-concert-app-backend.pdb
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.AssemblyReference.cache
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfoInputs.cache
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.AssemblyInfo.cs
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.csproj.CoreCompileInputs.cache
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\scopedcss\bundle\spotify-concert-app-backend.styles.css
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets\msbuild.spotify-concert-app-backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets\msbuild.build.spotify-concert-app-backend.props
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.spotify-concert-app-backend.props
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.spotify-concert-app-backend.props
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-.03BFCD2A.Up2Date
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\refint\spotify-concert-app-backend.dll
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.pdb
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\spotify-concert-app-backend.genruntimeconfig.cache
+C:\Users\wiktor\Desktop\projects-main\projekt\back\obj\Debug\net8.0\ref\spotify-concert-app-backend.dll

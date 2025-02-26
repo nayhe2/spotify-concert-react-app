@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "spotify_concert_app_backend.ConcertController",
+    "Method": "AddToCalendar",
+    "RelativePath": "api/calendar-event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventData",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "spotify_concert_app_backend.ConcertController",
+    "Method": "GetConcerts",
+    "RelativePath": "api/concerts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artist",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "spotify_concert_app_backend.ConcertController",
+    "Method": "SpotifySearch",
+    "RelativePath": "api/spotify-search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "artist",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "spotify_concert_app_backend.ConcertController",
+    "Method": "GetSpotifyToken",
+    "RelativePath": "api/spotify-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
